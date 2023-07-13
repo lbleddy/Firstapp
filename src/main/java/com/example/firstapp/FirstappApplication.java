@@ -13,7 +13,7 @@ public class FirstappApplication implements CommandLineRunner {
 	}
 
 	public void run(String... args) throws Exception {
-		String sql = "INSERT INTO students "
+		String sql = "SELECT * FROM userdata "
 	}
 
 }
